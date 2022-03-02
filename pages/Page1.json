@@ -1475,7 +1475,7 @@
                         }
                       ],
                       "labelStyle": "",
-                      "inputType": "TEXT",
+                      "inputType": "NUMBER",
                       "isDisabled": false,
                       "key": "xsmln3d0zi",
                       "validation": "true",
@@ -1512,7 +1512,7 @@
                         }
                       ],
                       "labelStyle": "",
-                      "inputType": "TEXT",
+                      "inputType": "NUMBER",
                       "isDisabled": false,
                       "key": "xsmln3d0zi",
                       "validation": "true",
@@ -1577,9 +1577,9 @@
               "pluginType": "DB",
               "jsonPathKeys": [
                 "(Table1.pageNo - 1) * Table1.pageSize",
+                "Table1.pageSize",
                 "Table1.searchText || \"\"",
                 "col_select.selectedOptionValue",
-                "Table1.pageSize",
                 "order_select.selectedOptionValue"
               ],
               "timeoutInMillisecond": 10000
