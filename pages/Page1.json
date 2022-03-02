@@ -1241,7 +1241,7 @@
                     {
                       "resetFormOnClick": true,
                       "widgetName": "reset_update_button",
-                      "rightColumn": 46,
+                      "rightColumn": 18,
                       "onClick": "",
                       "isDefaultClickDisabled": true,
                       "dynamicPropertyPathList": [],
@@ -1261,7 +1261,7 @@
                         }
                       ],
                       "disabledWhenInvalid": false,
-                      "leftColumn": 28,
+                      "leftColumn": 0,
                       "dynamicBindingPathList": [],
                       "buttonVariant": "SECONDARY",
                       "text": "Reset"
