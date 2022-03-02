@@ -1,0 +1,15 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFDEDE",
+  "icon": "rocket",
+  "slug": "user-admin",
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1646263627,
+    "nanos": 742000000
+  },
+  "deleted": false
+}
